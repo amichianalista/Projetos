@@ -4,23 +4,23 @@ cat > README.md << 'EOF'
 Repositório com meus projetos em Power BI, Python e SQL para análise de dados.
 
 <div align="center">
-  <img src="https://imgur.com/VJtxbTM.png" width="45%" style="margin:5px;"> 
+  <img src="https://imgur.com/a/kF5P4xy" width="45%" style="margin:5px;"> 
   <img src="https://imgur.com/aJRc9lU.png" width="45%" style="margin:5px;">
 </div>
 
 ## 🗂️ Estrutura do Repositório
 | Cliente           | Objetivo Principal                                                                 |
 |-------------------|-----------------------------------------------------------------------------------|
+|| `Etiquetas Nova União` | Qualificação dos Leads de topo do Funil e detalhes de cada Lead para a equipe comercial trabalhar. 
 | `Sapato e Estilo` | Clusterização das Vendas e Estoque<br>Análise de Poisson para ambos               |
 | `Stillos`         | Clusterização Produtos<br>Análise temporal/sazonal das Vendas                     |
 | `ZyntrixStartup`  | Análise de mercado de startups<br>Correlações e análises temporais do mercado global |
 
 ## 📊 Dashboards
-
-### Zyntrix Startup
+### Etiquetas Nova União
 <div align="center">
-  <img src="https://imgur.com/VJtxbTM.png" width="45%" style="margin:5px;">
-  <img src="https://imgur.com/mD1IjIl.png" width="45%" style="margin:5px;">
+  <img src="https://imgur.com/a/kF5P4xy.png" width="45%" style="margin:5px;">
+  <img src="https://imgur.com/a/XsCNYQW.png" width="45%" style="margin:5px;">
 </div>
 
 ### Stillos - Análise de Estoque
@@ -45,6 +45,13 @@ Repositório com meus projetos em Power BI, Python e SQL para análise de dados.
   <br>
   <img src="https://imgur.com/tMm2TF9.png" width="45%">
   <img src="https://imgur.com/ovGopDY.png" width="45%">
+</div>
+
+
+### Zyntrix Startup
+<div align="center">
+  <img src="https://imgur.com/VJtxbTM.png" width="45%" style="margin:5px;">
+  <img src="https://imgur.com/mD1IjIl.png" width="45%" style="margin:5px;">
 </div>
 
 ## 🛠️ Tecnologias Utilizadas
