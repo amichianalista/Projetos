@@ -1,0 +1,332 @@
+Filial;Data;Controle;Unidades;Avista;Entrada;Aprazo;Total;Nome;Vendedor;Nome
+01;01/06/24;     19;     27;       911,30 ;         0,00 ;     2.279,00 ;     3.190,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;03/06/24;     21;     28;       819,80 ;        10,00 ;     2.289,10 ;     3.118,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;04/06/24;     19;     30;       373,70 ;        50,00 ;     3.298,50 ;     3.722,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/06/24;     22;     31;     1.109,40 ;        50,00 ;     2.409,10 ;     3.568,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;06/06/24;     27;     38;       806,60 ;       100,00 ;     3.498,80 ;     4.405,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;07/06/24;     49;     64;     2.057,50 ;         0,00 ;     5.691,40 ;     7.748,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;08/06/24;     45;     65;     3.189,00 ;       150,00 ;     4.399,10 ;     7.738,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/06/24;     27;     35;       686,60 ;       100,00 ;     3.378,40 ;     4.165,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/06/24;     40;     61;     2.434,00 ;       200,00 ;     5.045,70 ;     7.679,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;12/06/24;     61;     71;     2.462,20 ;       110,00 ;     6.766,50 ;     9.338,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;13/06/24;     26;     40;     1.037,50 ;       400,00 ;     3.598,20 ;     5.035,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/06/24;     46;     64;     2.316,60 ;       250,00 ;     5.861,50 ;     8.428,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;15/06/24;     21;     24;     1.157,50 ;       100,00 ;     2.498,70 ;     3.756,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;17/06/24;     19;     24;     1.170,40 ;         0,00 ;     2.298,70 ;     3.469,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/06/24;     25;     31;     1.339,90 ;         0,00 ;     2.448,50 ;     3.788,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;19/06/24;     18;     21;       678,60 ;         0,00 ;     1.813,70 ;     2.492,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;20/06/24;     17;     25;       219,80 ;         0,00 ;     2.768,20 ;     2.988,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;21/06/24;     16;     23;       495,10 ;       350,00 ;     2.938,70 ;     3.783,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;22/06/24;     15;     22;     1.500,30 ;         0,00 ;     1.490,50 ;     2.990,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;24/06/24;     20;     24;     1.272,00 ;       100,00 ;     1.800,00 ;     3.172,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/06/24;     14;     19;       279,80 ;       244,80 ;     2.018,00 ;     2.542,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/06/24;     18;     20;     1.031,80 ;        50,00 ;     1.039,60 ;     2.121,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;27/06/24;     16;     21;     1.719,50 ;       100,00 ;       589,40 ;     2.408,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/06/24;     27;     33;       559,60 ;        90,10 ;     2.529,10 ;     3.178,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;29/06/24;     16;     22;       459,80 ;       100,00 ;     2.483,80 ;     3.043,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;01/07/24;     18;     21;     1.183,80 ;         0,00 ;     1.149,20 ;     2.333,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;02/07/24;     18;     29;     1.279,70 ;       250,00 ;     1.996,00 ;     3.525,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;03/07/24;     13;     20;       769,40 ;        50,00 ;     1.489,00 ;     2.308,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;04/07/24;     17;     23;       562,70 ;       112,00 ;     2.187,10 ;     2.861,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/07/24;     32;     48;     1.910,70 ;       150,00 ;     3.803,70 ;     5.864,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;06/07/24;     25;     35;     1.013,20 ;        70,00 ;     3.407,00 ;     4.490,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;08/07/24;     28;     29;     1.549,50 ;       179,90 ;     2.263,00 ;     3.992,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;09/07/24;     15;     16;     1.039,80 ;         0,00 ;     1.189,00 ;     2.228,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/07/24;     18;     23;     1.270,50 ;         0,00 ;     2.119,20 ;     3.389,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/07/24;     12;     17;       933,30 ;         0,00 ;       969,60 ;     1.902,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;12/07/24;     22;     26;     2.003,30 ;        50,00 ;     1.354,20 ;     3.407,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;13/07/24;     16;     16;       542,40 ;       100,00 ;     1.559,10 ;     2.201,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;15/07/24;     11;     19;       459,70 ;         0,00 ;     1.548,90 ;     2.008,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;16/07/24;     31;     43;     2.048,90 ;       220,00 ;     2.949,00 ;     5.217,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;17/07/24;     21;     26;       319,80 ;        67,00 ;     2.682,30 ;     3.069,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/07/24;     37;     60;     1.622,80 ;         0,00 ;     5.568,70 ;     7.191,50 ;STILLOS CALCADOS              ;001;BARBARA
+01;19/07/24;     31;     42;     1.129,60 ;       100,00 ;     3.885,70 ;     5.115,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;20/07/24;     20;     28;       909,80 ;         0,00 ;     2.319,40 ;     3.229,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;22/07/24;     16;     17;     1.000,50 ;         0,00 ;     1.039,30 ;     2.039,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;23/07/24;     15;     23;       969,60 ;       150,00 ;     1.244,60 ;     2.364,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;24/07/24;     19;     27;       519,60 ;        50,00 ;     1.854,00 ;     2.423,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/07/24;     17;     25;       589,70 ;         0,00 ;     1.899,50 ;     2.489,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/07/24;     27;     44;       934,20 ;         0,00 ;     3.028,60 ;     3.962,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;27/07/24;     20;     26;     1.105,30 ;         0,00 ;     1.339,80 ;     2.445,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;29/07/24;     11;     13;       788,40 ;         0,00 ;       834,70 ;     1.623,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;30/07/24;     20;     29;       948,20 ;         0,00 ;     1.769,20 ;     2.717,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;31/07/24;     20;     32;     1.026,30 ;        60,00 ;     2.349,10 ;     3.435,40 ;STILLOS CALCADOS              ;007;JOANA
+01;01/08/24;     22;     31;       544,60 ;       119,90 ;     3.348,80 ;     4.013,30 ;STILLOS CALCADOS              ;007;JOANA
+01;02/08/24;     32;     46;     1.931,70 ;         0,00 ;     3.323,10 ;     5.254,80 ;STILLOS CALCADOS              ;007;JOANA
+01;03/08/24;     22;     29;       792,90 ;         0,00 ;     2.718,80 ;     3.511,70 ;STILLOS CALCADOS              ;007;JOANA
+01;05/08/24;     18;     26;       799,60 ;         0,00 ;     1.769,00 ;     2.568,60 ;STILLOS CALCADOS              ;007;JOANA
+01;06/08/24;     31;     36;       689,60 ;         0,00 ;     3.023,00 ;     3.712,60 ;STILLOS CALCADOS              ;007;JOANA
+01;07/08/24;     24;     37;     1.043,60 ;         0,00 ;     3.548,30 ;     4.591,90 ;STILLOS CALCADOS              ;007;JOANA
+01;08/08/24;     20;     35;     1.114,60 ;        45,00 ;     2.803,80 ;     3.963,40 ;STILLOS CALCADOS              ;007;JOANA
+01;09/08/24;     28;     36;     1.164,00 ;       200,00 ;     2.643,90 ;     4.007,90 ;STILLOS CALCADOS              ;007;JOANA
+01;10/08/24;     31;     54;     1.389,30 ;       199,90 ;     3.936,90 ;     5.526,10 ;STILLOS CALCADOS              ;007;JOANA
+01;11/08/24;      6;     10;       319,70 ;         0,00 ;       839,80 ;     1.159,50 ;STILLOS CALCADOS              ;007;JOANA
+01;12/08/24;     16;     20;       319,90 ;         0,00 ;     1.424,10 ;     1.744,00 ;STILLOS CALCADOS              ;007;JOANA
+01;13/08/24;     19;     22;       754,70 ;         0,00 ;     1.194,10 ;     1.948,80 ;STILLOS CALCADOS              ;007;JOANA
+01;14/08/24;     14;     15;       338,30 ;       100,00 ;     1.319,20 ;     1.757,50 ;STILLOS CALCADOS              ;007;JOANA
+01;16/08/24;     18;     24;     1.279,90 ;         0,00 ;     1.279,20 ;     2.559,10 ;STILLOS CALCADOS              ;007;JOANA
+01;17/08/24;     13;     17;       240,00 ;       100,00 ;     1.638,90 ;     1.978,90 ;STILLOS CALCADOS              ;007;JOANA
+01;19/08/24;     14;     15;       513,80 ;         0,00 ;     1.729,40 ;     2.243,20 ;STILLOS CALCADOS              ;007;JOANA
+01;20/08/24;      9;     10;       529,60 ;         0,00 ;       259,80 ;       789,40 ;STILLOS CALCADOS              ;007;JOANA
+01;21/08/24;     16;     19;       634,50 ;         0,00 ;     1.274,40 ;     1.908,90 ;STILLOS CALCADOS              ;007;JOANA
+01;22/08/24;     14;     19;       459,60 ;         0,00 ;     1.548,90 ;     2.008,50 ;STILLOS CALCADOS              ;007;JOANA
+01;23/08/24;     19;     28;       389,80 ;        39,90 ;     2.549,20 ;     2.978,90 ;STILLOS CALCADOS              ;007;JOANA
+01;24/08/24;     18;     24;       869,40 ;       119,90 ;     1.553,70 ;     2.543,00 ;STILLOS CALCADOS              ;007;JOANA
+01;26/08/24;     11;     16;       528,80 ;       100,00 ;     1.339,10 ;     1.967,90 ;STILLOS CALCADOS              ;007;JOANA
+01;27/08/24;     13;     18;     1.099,50 ;         0,00 ;       709,40 ;     1.808,90 ;STILLOS CALCADOS              ;007;JOANA
+01;28/08/24;     15;     24;     1.057,50 ;         0,00 ;     1.818,80 ;     2.876,30 ;STILLOS CALCADOS              ;007;JOANA
+01;29/08/24;     12;     15;       499,90 ;       200,00 ;     1.479,50 ;     2.179,40 ;STILLOS CALCADOS              ;007;JOANA
+01;30/08/24;     18;     25;       279,90 ;       150,00 ;     2.778,40 ;     3.208,30 ;STILLOS CALCADOS              ;007;JOANA
+01;31/08/24;      9;     10;       469,80 ;         0,00 ;       656,50 ;     1.126,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;02/09/24;     13;     23;       779,60 ;         0,00 ;     1.968,90 ;     2.748,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;03/09/24;     15;     18;       539,80 ;         0,00 ;     1.209,20 ;     1.749,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;04/09/24;     31;     45;       649,30 ;         0,00 ;     4.586,90 ;     5.236,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/09/24;     29;     42;     1.139,10 ;         0,00 ;     3.177,90 ;     4.317,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;06/09/24;     33;     43;     2.083,40 ;         0,00 ;     2.575,00 ;     4.658,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;09/09/24;     19;     27;     1.449,60 ;         0,00 ;     1.304,10 ;     2.753,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/09/24;     17;     20;     1.474,60 ;         0,00 ;       809,30 ;     2.283,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/09/24;     16;     23;     1.208,80 ;        70,00 ;     1.708,70 ;     2.987,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;12/09/24;     22;     23;       659,40 ;       159,70 ;     2.589,20 ;     3.408,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;13/09/24;     20;     22;       482,40 ;       100,00 ;     1.838,80 ;     2.421,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/09/24;     19;     26;       889,40 ;         0,00 ;     2.558,30 ;     3.447,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;16/09/24;      9;     14;       309,60 ;         0,00 ;       989,30 ;     1.298,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;17/09/24;     18;     23;     1.610,30 ;         0,00 ;     1.139,30 ;     2.749,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/09/24;     20;     33;       857,20 ;       200,00 ;     2.596,50 ;     3.653,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;19/09/24;     15;     21;       820,80 ;         0,00 ;     1.409,00 ;     2.229,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;20/09/24;     20;     43;       259,70 ;        19,40 ;     4.907,80 ;     5.186,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;21/09/24;     18;     29;       819,20 ;       205,00 ;     2.010,80 ;     3.035,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;23/09/24;     15;     20;         0,00 ;         0,00 ;     2.188,30 ;     2.188,30 ;STILLOS CALCADOS              ;010;GERENTE
+01;24/09/24;     11;     11;       743,40 ;         0,00 ;       729,50 ;     1.472,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/09/24;     15;     24;       499,80 ;         0,00 ;     2.468,20 ;     2.968,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/09/24;     17;     25;       859,40 ;         0,00 ;     1.503,70 ;     2.363,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;27/09/24;     17;     22;       299,70 ;         0,00 ;     1.858,50 ;     2.158,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/09/24;     21;     37;     1.320,20 ;        59,90 ;     1.922,90 ;     3.303,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;30/09/24;     22;     31;       829,20 ;       149,90 ;     2.428,10 ;     3.407,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;01/10/24;     18;     32;       369,50 ;         0,00 ;     2.351,40 ;     2.720,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;02/10/24;     17;     26;       351,70 ;         0,00 ;     2.369,00 ;     2.720,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;03/10/24;     25;     26;       844,50 ;         0,00 ;     1.888,40 ;     2.732,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;04/10/24;     23;     32;       829,20 ;       200,00 ;     3.297,90 ;     4.327,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/10/24;     20;     36;       889,40 ;         0,00 ;     3.467,60 ;     4.357,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;07/10/24;     23;     34;     1.224,30 ;         0,00 ;     1.963,40 ;     3.187,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;08/10/24;     21;     24;     1.260,80 ;         0,00 ;     1.349,10 ;     2.609,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;09/10/24;     22;     41;     1.370,50 ;       200,00 ;     2.507,50 ;     4.078,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/10/24;     14;     21;       479,50 ;         0,00 ;     1.928,80 ;     2.408,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/10/24;     26;     42;       479,70 ;         0,00 ;     3.826,90 ;     4.306,60 ;STILLOS CALCADOS              ;010;GERENTE
+01;12/10/24;     10;      9;        70,00 ;         0,00 ;       859,40 ;       929,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/10/24;     18;     22;       721,30 ;         0,00 ;     1.328,90 ;     2.050,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;15/10/24;     17;     25;     1.207,10 ;         0,00 ;     1.718,80 ;     2.925,90 ;STILLOS CALCADOS              ;010;GERENTE
+01;16/10/24;     15;     19;       640,50 ;         0,00 ;     1.178,90 ;     1.819,40 ;STILLOS CALCADOS              ;015;ROSIANE
+01;17/10/24;     13;     14;       531,30 ;         0,00 ;       829,30 ;     1.360,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/10/24;     29;     45;     1.878,70 ;         0,00 ;     3.487,80 ;     5.366,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;19/10/24;     13;     23;        70,00 ;         0,00 ;     2.497,90 ;     2.567,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;21/10/24;     11;     10;        99,90 ;         0,00 ;     1.014,40 ;     1.114,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;22/10/24;     14;     17;       282,30 ;         0,00 ;     1.189,10 ;     1.471,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;23/10/24;     15;     17;       239,70 ;         0,00 ;     1.289,00 ;     1.528,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;24/10/24;     14;     18;       269,90 ;         0,00 ;     1.928,60 ;     2.198,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/10/24;     17;     23;       787,00 ;         0,00 ;     1.908,60 ;     2.695,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/10/24;     17;     26;     1.068,10 ;         0,00 ;     1.924,10 ;     2.992,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/10/24;     10;     14;       349,60 ;       132,90 ;     1.139,30 ;     1.621,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;29/10/24;     14;     21;       699,60 ;         0,00 ;     1.788,70 ;     2.488,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;30/10/24;     19;     29;       419,60 ;         0,00 ;     3.307,90 ;     3.727,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;31/10/24;     22;     24;       919,20 ;         0,00 ;     1.029,10 ;     1.948,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;01/11/24;     22;     27;     1.249,20 ;         0,00 ;     1.660,70 ;     2.909,90 ;STILLOS CALCADOS              ;010;GERENTE
+01;02/11/24;      4;      5;       209,70 ;         0,00 ;       270,00 ;       479,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;04/11/24;     21;     24;       826,80 ;         0,00 ;     1.839,00 ;     2.665,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/11/24;     11;     14;       239,90 ;         0,00 ;     1.809,00 ;     2.048,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;06/11/24;     21;     38;       889,50 ;       150,00 ;     3.507,70 ;     4.547,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;07/11/24;     20;     34;     1.169,30 ;         0,00 ;     2.249,40 ;     3.418,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;08/11/24;     30;     53;     1.229,40 ;         0,00 ;     3.326,90 ;     4.556,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;09/11/24;     18;     25;       749,70 ;         0,00 ;     1.563,70 ;     2.313,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/11/24;     30;     35;     1.427,20 ;       180,00 ;     1.908,50 ;     3.515,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;12/11/24;     26;     41;     1.879,10 ;        10,00 ;     1.539,10 ;     3.428,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;13/11/24;     25;     32;     1.131,80 ;         0,00 ;     2.798,50 ;     3.930,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/11/24;     40;     64;     1.484,10 ;       269,90 ;     4.232,22 ;     5.986,22 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;16/11/24;     23;     43;     1.945,20 ;        74,95 ;     3.742,95 ;     5.763,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/11/24;     16;     37;       539,80 ;       159,70 ;     2.747,50 ;     3.447,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;19/11/24;     17;     25;       729,40 ;        60,00 ;     1.597,13 ;     2.386,53 ;STILLOS CALCADOS              ;007;JOANA
+01;20/11/24;     14;     28;       579,30 ;         0,00 ;     2.148,86 ;     2.728,16 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;21/11/24;     14;     19;       330,00 ;       100,00 ;     1.469,10 ;     1.899,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;22/11/24;     30;     49;     1.258,23 ;       100,00 ;     3.720,09 ;     5.078,32 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;23/11/24;     38;     57;     2.089,00 ;       120,00 ;     3.227,65 ;     5.436,65 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/11/24;     24;     29;       669,70 ;         0,00 ;     2.027,82 ;     2.697,52 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/11/24;     26;     42;     1.695,00 ;         0,00 ;     2.848,83 ;     4.543,83 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;27/11/24;     24;     29;     1.498,10 ;         0,00 ;     1.688,90 ;     3.187,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/11/24;     20;     32;     1.349,50 ;       132,90 ;     1.789,03 ;     3.271,43 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;29/11/24;     37;     56;     2.547,83 ;         0,00 ;     2.890,32 ;     5.438,15 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;30/11/24;     26;     41;     1.056,40 ;       100,00 ;     2.909,09 ;     4.065,49 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;02/12/24;     23;     22;     1.109,40 ;         0,00 ;     1.529,20 ;     2.638,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;03/12/24;     26;     31;     1.391,60 ;         0,00 ;     1.189,20 ;     2.580,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;04/12/24;     26;     29;     1.255,63 ;         0,00 ;     1.748,72 ;     3.004,35 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/12/24;     23;     26;     1.119,30 ;         0,00 ;     1.833,70 ;     2.953,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;06/12/24;     43;     71;     2.694,73 ;       249,80 ;     3.965,80 ;     6.910,33 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;07/12/24;     32;     46;     1.479,30 ;       150,00 ;     3.127,70 ;     4.757,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;09/12/24;     17;     31;       669,43 ;       189,40 ;     2.438,40 ;     3.297,23 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/12/24;     21;     27;       559,43 ;         0,00 ;     2.188,70 ;     2.748,13 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/12/24;     26;     45;     1.443,50 ;       392,76 ;     2.242,30 ;     4.078,56 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;12/12/24;     32;     56;     1.422,50 ;        39,90 ;     3.893,29 ;     5.355,69 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;13/12/24;     35;     48;     1.830,53 ;         0,00 ;     2.786,53 ;     4.617,06 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/12/24;     41;     56;     2.053,30 ;        65,00 ;     3.512,10 ;     5.630,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;15/12/24;      4;      4;       291,80 ;         0,00 ;        79,90 ;       371,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;16/12/24;     26;     38;     1.533,60 ;         0,00 ;     1.618,36 ;     3.151,96 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;17/12/24;     38;     51;     1.668,40 ;       209,85 ;     2.247,68 ;     4.125,93 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/12/24;     38;     56;     3.115,70 ;         0,00 ;     2.553,39 ;     5.669,09 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;19/12/24;     37;     57;     2.256,70 ;       199,90 ;     3.037,80 ;     5.494,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;20/12/24;     42;     71;     2.156,40 ;       309,90 ;     4.056,00 ;     6.522,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;21/12/24;     55;     92;     4.029,93 ;       400,00 ;     4.270,52 ;     8.700,45 ;STILLOS CALCADOS              ;007;JOANA
+01;22/12/24;     17;     22;       679,50 ;        80,00 ;     1.379,20 ;     2.138,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;23/12/24;    109;    173;     6.445,30 ;       843,85 ;     8.489,18 ;    15.778,33 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;24/12/24;    116;    175;     7.695,30 ;       200,00 ;     9.358,30 ;    17.253,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/12/24;     40;     38;     1.597,20 ;         0,00 ;     1.828,80 ;     3.426,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;27/12/24;     25;     32;       739,30 ;         0,00 ;     2.491,73 ;     3.231,03 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/12/24;     23;     22;       786,50 ;       431,73 ;     1.403,99 ;     2.622,22 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;30/12/24;     56;     66;     2.984,70 ;       160,00 ;     3.485,12 ;     6.629,82 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;31/12/24;     48;     64;     2.924,13 ;        50,00 ;     3.016,30 ;     5.990,43 ;STILLOS CALCADOS              ;007;JOANA
+01;02/01/25;      9;     11;       349,10 ;         0,00 ;       429,70 ;       778,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;03/01/25;     10;      7;       184,90 ;        45,00 ;       754,73 ;       984,63 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;04/01/25;     17;     18;       604,30 ;         0,00 ;       839,10 ;     1.443,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;06/01/25;     13;     24;       289,90 ;        60,00 ;     1.331,90 ;     1.681,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;07/01/25;     21;     31;       769,40 ;       150,00 ;     2.087,92 ;     3.007,32 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;08/01/25;     22;     24;     1.064,60 ;         0,00 ;     1.343,90 ;     2.408,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;09/01/25;     14;     17;       470,80 ;         0,00 ;       824,50 ;     1.295,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/01/25;     27;     32;       801,50 ;       150,00 ;     2.149,79 ;     3.101,29 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/01/25;     18;     20;       789,70 ;        90,00 ;     1.079,80 ;     1.959,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;13/01/25;     24;     34;     1.777,80 ;         0,00 ;     1.484,60 ;     3.262,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/01/25;     20;     25;       429,60 ;        50,00 ;     1.639,20 ;     2.118,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;15/01/25;     19;     39;       939,70 ;       100,00 ;     2.379,27 ;     3.418,97 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;16/01/25;     26;     30;       981,60 ;        70,00 ;     1.489,50 ;     2.541,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;17/01/25;     32;     61;       829,50 ;       200,00 ;     4.358,90 ;     5.388,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/01/25;     22;     31;       699,60 ;         0,00 ;     1.839,70 ;     2.539,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;20/01/25;     22;     47;     2.299,50 ;       125,00 ;     1.289,60 ;     3.714,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;21/01/25;     17;     34;       429,90 ;         6,90 ;     1.932,70 ;     2.369,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;22/01/25;     16;     28;     1.169,80 ;        50,00 ;       849,80 ;     2.069,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;23/01/25;     29;     50;     1.159,90 ;         0,00 ;     2.813,90 ;     3.973,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;24/01/25;     29;     39;     1.344,70 ;        50,00 ;     1.649,30 ;     3.044,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/01/25;     21;     35;       459,90 ;         0,00 ;     2.114,40 ;     2.574,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;27/01/25;     19;     26;       969,80 ;         0,00 ;     1.589,60 ;     2.559,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/01/25;     17;     25;       444,80 ;        70,00 ;     1.194,50 ;     1.709,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;29/01/25;     20;     31;       446,80 ;         0,00 ;     1.774,70 ;     2.221,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;30/01/25;     20;     38;       749,88 ;       100,00 ;     2.259,80 ;     3.109,68 ;STILLOS CALCADOS              ;001;BARBARA
+01;31/01/25;     18;     31;       639,89 ;         0,00 ;     1.989,80 ;     2.629,69 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;01/02/25;     20;     32;       679,60 ;         0,00 ;     2.089,50 ;     2.769,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;03/02/25;     17;     28;       839,85 ;         0,00 ;       969,38 ;     1.809,23 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;04/02/25;     31;     48;     1.039,60 ;       315,00 ;     3.803,48 ;     5.158,08 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/02/25;     23;     38;       989,79 ;       350,00 ;     2.300,00 ;     3.639,79 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;06/02/25;     23;     34;       738,70 ;         0,00 ;     2.419,70 ;     3.158,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;07/02/25;     34;     47;     1.319,30 ;       210,00 ;     2.449,39 ;     3.978,69 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;08/02/25;     22;     31;     1.559,80 ;         0,00 ;     1.269,79 ;     2.829,59 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/02/25;     24;     40;       639,90 ;         0,00 ;     2.464,20 ;     3.104,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/02/25;     27;     44;     1.788,70 ;       240,00 ;     1.789,70 ;     3.818,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;12/02/25;     31;     42;     1.387,80 ;       250,00 ;     2.309,00 ;     3.946,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;13/02/25;     13;     21;       549,90 ;        70,00 ;       979,60 ;     1.599,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/02/25;     27;     38;     1.014,70 ;       180,00 ;     2.039,50 ;     3.234,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;15/02/25;     17;     31;       647,20 ;         0,00 ;     1.849,70 ;     2.496,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;17/02/25;     19;     27;       604,90 ;        50,00 ;     1.629,60 ;     2.284,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/02/25;     14;     26;       869,88 ;         0,00 ;     1.729,18 ;     2.599,06 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;19/02/25;     18;     31;       659,99 ;         0,00 ;     2.340,58 ;     3.000,57 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;20/02/25;     17;     28;       709,90 ;       375,00 ;       904,80 ;     1.989,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;21/02/25;     33;     59;       779,60 ;       170,00 ;     3.969,17 ;     4.918,77 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;22/02/25;     32;     52;       610,00 ;        25,00 ;     3.924,10 ;     4.559,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;24/02/25;     25;     38;     1.164,80 ;         0,00 ;     2.019,70 ;     3.184,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/02/25;     26;     37;       484,80 ;         0,00 ;     2.429,30 ;     2.914,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/02/25;     26;     36;     1.109,70 ;         0,00 ;     2.019,20 ;     3.128,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;27/02/25;     25;     37;     1.149,80 ;         0,00 ;     1.974,30 ;     3.124,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/02/25;     42;     68;     1.851,09 ;       460,00 ;     2.834,60 ;     5.145,69 ;STILLOS CALCADOS              ;001;BARBARA
+01;01/03/25;     29;     50;     2.159,30 ;       100,00 ;     2.414,70 ;     4.674,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/03/25;     13;     27;     1.129,90 ;       150,00 ;       640,00 ;     1.919,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;06/03/25;     19;     23;       769,99 ;       170,00 ;       849,60 ;     1.789,59 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;07/03/25;     27;     43;     1.149,50 ;         0,00 ;     2.165,30 ;     3.314,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;08/03/25;     15;     25;       600,00 ;         0,00 ;     1.589,30 ;     2.189,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/03/25;     20;     33;     1.639,70 ;        70,00 ;     1.769,60 ;     3.479,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/03/25;     18;     30;       319,90 ;       200,00 ;     2.174,60 ;     2.694,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;12/03/25;     17;     21;     1.164,30 ;         0,00 ;       300,00 ;     1.464,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;13/03/25;     20;     27;       899,30 ;        25,00 ;     1.704,30 ;     2.628,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/03/25;     30;     46;     1.069,50 ;       350,00 ;     3.258,50 ;     4.678,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;15/03/25;     22;     24;       949,50 ;         0,00 ;       829,40 ;     1.778,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;17/03/25;     13;     25;       609,50 ;       179,90 ;     1.638,80 ;     2.428,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/03/25;     21;     33;       915,00 ;       100,00 ;     2.258,30 ;     3.273,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;19/03/25;     21;     29;       579,90 ;       100,00 ;     2.884,30 ;     3.564,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;20/03/25;     12;     19;       629,70 ;         0,00 ;       859,10 ;     1.488,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;21/03/25;     31;     57;     1.129,50 ;         0,00 ;     4.002,10 ;     5.131,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;22/03/25;     23;     33;       739,60 ;        50,00 ;     2.173,80 ;     2.963,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;24/03/25;     16;     21;       639,80 ;         0,00 ;     1.499,80 ;     2.139,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/03/25;     22;     30;       829,40 ;        70,00 ;     1.829,40 ;     2.728,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/03/25;     19;     24;       845,91 ;         0,00 ;     1.749,70 ;     2.595,61 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;27/03/25;     24;     37;       979,60 ;         0,00 ;     2.138,60 ;     3.118,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/03/25;     16;     22;     1.306,80 ;         0,00 ;       559,60 ;     1.866,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;29/03/25;     31;     42;     1.299,00 ;        39,90 ;     2.418,30 ;     3.757,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;31/03/25;     14;     18;       929,70 ;        34,90 ;       649,60 ;     1.614,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;01/04/25;     16;     22;       449,90 ;       120,00 ;     1.288,90 ;     1.858,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;02/04/25;     20;     21;       789,30 ;         0,00 ;       699,50 ;     1.488,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;03/04/25;     18;     24;       584,70 ;         0,00 ;     2.068,40 ;     2.653,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;04/04/25;     27;     45;     1.569,60 ;       104,00 ;     3.103,80 ;     4.777,40 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/04/25;     22;     34;     1.129,40 ;       100,00 ;     2.638,90 ;     3.868,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;07/04/25;     27;     36;       513,19 ;       193,40 ;     3.838,19 ;     4.544,78 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;08/04/25;     22;     28;     1.148,00 ;       289,80 ;     1.659,10 ;     3.096,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;09/04/25;     19;     23;       951,50 ;        49,90 ;       699,60 ;     1.701,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/04/25;     23;     28;       888,60 ;       100,00 ;     1.702,40 ;     2.691,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/04/25;     25;     36;       519,60 ;         0,00 ;     3.092,90 ;     3.612,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;12/04/25;     13;     14;       519,80 ;       199,80 ;       639,60 ;     1.359,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/04/25;     15;     16;       519,60 ;         0,00 ;       619,70 ;     1.139,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;15/04/25;     21;     30;       819,30 ;       200,00 ;     1.928,60 ;     2.947,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;16/04/25;     11;     14;       269,70 ;         0,00 ;     1.159,20 ;     1.428,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;17/04/25;     26;     35;       893,00 ;       129,95 ;     2.663,15 ;     3.686,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;19/04/25;     14;     23;       441,60 ;         0,00 ;     1.758,50 ;     2.200,10 ;STILLOS CALCADOS              ;001;BARBARA
+01;22/04/25;     15;     16;       653,20 ;       100,00 ;     1.140,70 ;     1.893,90 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;23/04/25;     13;     23;       479,89 ;        40,00 ;     2.208,39 ;     2.728,28 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;24/04/25;     10;     10;       763,00 ;         0,00 ;       749,70 ;     1.512,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/04/25;     23;     27;     1.071,10 ;         0,00 ;     2.508,70 ;     3.579,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/04/25;     22;     36;       664,29 ;         0,00 ;     3.285,40 ;     3.949,69 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/04/25;     20;     26;     1.128,10 ;         0,00 ;     1.808,90 ;     2.937,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;29/04/25;     14;     20;       449,60 ;       100,00 ;     1.688,90 ;     2.238,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;30/04/25;     27;     39;       863,39 ;         0,00 ;     4.302,99 ;     5.166,38 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;02/05/25;     13;     25;       940,00 ;         0,00 ;     2.518,30 ;     3.458,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;03/05/25;     12;     22;       341,30 ;         0,00 ;     2.578,80 ;     2.920,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;05/05/25;     20;     26;       709,60 ;         0,00 ;     1.598,90 ;     2.308,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;06/05/25;     25;     35;     1.522,80 ;         0,00 ;     2.261,00 ;     3.783,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;07/05/25;     28;     43;     1.482,60 ;       199,80 ;     4.022,90 ;     5.705,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;08/05/25;     32;     40;     1.541,30 ;       150,00 ;     2.228,40 ;     3.919,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;09/05/25;     40;     57;     1.951,39 ;       200,00 ;     5.516,60 ;     7.667,99 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;10/05/25;     51;     69;     2.115,60 ;        39,90 ;     6.725,30 ;     8.880,80 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;11/05/25;      7;     10;       259,90 ;         0,00 ;       869,60 ;     1.129,50 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;12/05/25;     17;     22;       973,20 ;        39,90 ;     2.095,60 ;     3.108,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;13/05/25;     22;     27;     1.257,30 ;       100,00 ;     2.502,70 ;     3.860,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;14/05/25;     25;     36;       503,60 ;        56,90 ;     4.392,80 ;     4.953,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;15/05/25;     22;     32;       833,50 ;       369,70 ;     2.439,50 ;     3.642,70 ;STILLOS CALCADOS              ;007;JOANA
+01;16/05/25;     26;     36;     1.091,30 ;       640,70 ;     3.776,80 ;     5.508,80 ;STILLOS CALCADOS              ;007;JOANA
+01;17/05/25;     21;     34;     1.653,40 ;        50,00 ;     2.988,40 ;     4.691,80 ;STILLOS CALCADOS              ;007;JOANA
+01;19/05/25;     15;     14;       589,70 ;         0,00 ;     1.129,40 ;     1.719,10 ;STILLOS CALCADOS              ;007;JOANA
+01;20/05/25;     15;     18;       549,60 ;         0,00 ;     1.048,90 ;     1.598,50 ;STILLOS CALCADOS              ;007;JOANA
+01;21/05/25;     21;     33;       430,00 ;         0,00 ;     3.868,00 ;     4.298,00 ;STILLOS CALCADOS              ;007;JOANA
+01;22/05/25;     21;     25;       509,89 ;         0,00 ;     2.279,00 ;     2.788,89 ;STILLOS CALCADOS              ;007;JOANA
+01;23/05/25;     32;     47;     1.683,50 ;       339,90 ;     4.338,20 ;     6.361,60 ;STILLOS CALCADOS              ;007;JOANA
+01;24/05/25;     25;     43;       999,40 ;         0,00 ;     4.883,60 ;     5.883,00 ;STILLOS CALCADOS              ;007;JOANA
+01;26/05/25;      7;     12;       323,40 ;         0,00 ;       929,60 ;     1.253,00 ;STILLOS CALCADOS              ;007;JOANA
+01;27/05/25;     16;     32;       629,80 ;       289,90 ;     1.688,60 ;     2.608,30 ;STILLOS CALCADOS              ;007;JOANA
+01;28/05/25;     18;     19;       917,20 ;         0,00 ;     1.099,50 ;     2.016,70 ;STILLOS CALCADOS              ;007;JOANA
+01;29/05/25;     27;     37;     1.106,00 ;         0,00 ;     2.364,20 ;     3.470,20 ;STILLOS CALCADOS              ;007;JOANA
+01;30/05/25;     18;     32;     1.145,60 ;         0,00 ;     2.838,60 ;     3.984,20 ;STILLOS CALCADOS              ;007;JOANA
+01;31/05/25;     13;     14;        59,80 ;         0,00 ;     1.297,19 ;     1.356,99 ;STILLOS CALCADOS              ;007;JOANA
+01;02/06/25;     20;     34;     1.080,60 ;        49,90 ;     3.634,80 ;     4.765,30 ;STILLOS CALCADOS              ;007;JOANA
+01;03/06/25;     29;     32;       979,60 ;         0,00 ;     3.027,69 ;     4.007,29 ;STILLOS CALCADOS              ;007;JOANA
+01;04/06/25;     33;     56;     1.914,00 ;         0,00 ;     4.123,40 ;     6.037,40 ;STILLOS CALCADOS              ;007;JOANA
+01;05/06/25;     27;     48;     2.057,10 ;         0,00 ;     2.549,08 ;     4.606,18 ;STILLOS CALCADOS              ;007;JOANA
+01;06/06/25;     21;     29;       683,30 ;         0,00 ;     3.810,10 ;     4.493,40 ;STILLOS CALCADOS              ;007;JOANA
+01;07/06/25;     34;     61;     1.306,70 ;       355,40 ;     5.389,80 ;     7.051,90 ;STILLOS CALCADOS              ;007;JOANA
+01;09/06/25;     14;     17;       383,30 ;         0,00 ;     1.731,70 ;     2.115,00 ;STILLOS CALCADOS              ;007;JOANA
+01;10/06/25;     20;     22;       806,70 ;         0,00 ;     1.680,50 ;     2.487,20 ;STILLOS CALCADOS              ;007;JOANA
+01;11/06/25;     27;     37;     1.399,50 ;       320,90 ;     3.488,70 ;     5.209,10 ;STILLOS CALCADOS              ;007;JOANA
+01;12/06/25;     34;     56;     1.579,28 ;       260,00 ;     4.577,60 ;     6.416,88 ;STILLOS CALCADOS              ;007;JOANA
+01;13/06/25;     36;     58;     1.062,00 ;       200,00 ;     6.447,10 ;     7.709,10 ;STILLOS CALCADOS              ;007;JOANA
+01;14/06/25;     23;     27;       399,90 ;         0,00 ;     3.384,10 ;     3.784,00 ;STILLOS CALCADOS              ;007;JOANA
+01;16/06/25;     27;     37;     1.240,90 ;         0,00 ;     2.741,70 ;     3.982,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;17/06/25;     19;     29;       943,60 ;       100,00 ;     1.497,50 ;     2.541,10 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;18/06/25;     27;     38;       813,00 ;       300,00 ;     4.937,20 ;     6.050,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;20/06/25;     30;     32;     1.249,50 ;        50,00 ;     2.698,50 ;     3.998,00 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;21/06/25;     18;     24;       826,40 ;         0,00 ;     2.288,80 ;     3.115,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;23/06/25;     15;     17;     1.228,50 ;         0,00 ;       569,70 ;     1.798,20 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;24/06/25;     10;     15;       559,90 ;         0,00 ;       829,40 ;     1.389,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;25/06/25;     16;     19;       368,90 ;         0,00 ;     1.239,40 ;     1.608,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;26/06/25;     10;     15;     1.061,10 ;        50,00 ;       739,50 ;     1.850,60 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;27/06/25;     19;     21;       484,70 ;        50,00 ;     3.328,60 ;     3.863,30 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;28/06/25;     14;     21;     1.116,90 ;         0,00 ;     1.628,80 ;     2.745,70 ;STILLOS CALCADOS              ;004;CRISTINE CONCEI€AO LEANDRO
+01;30/06/25;     15;     24;     1.397,00 ;         0,00 ;     1.799,10 ;     3.196,10 ;STILLOS CALCADOS              ;015;ROSIANE
