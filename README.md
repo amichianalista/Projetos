@@ -1,27 +1,30 @@
-cat > README.md << 'EOF'
 # 📊 Meus Projetos de Análise de Dados
 
-Repositório com meus projetos em Power BI, Python e SQL para análise de dados.
+Repositório com meus projetos em **Power BI**, **Python** e **SQL** para análise de dados.
 
 <div align="center">
   <img src="https://i.imgur.com/kF5P4xy.png" width="45%" style="margin:5px;"> 
   <img src="https://i.imgur.com/aJRc9lU.png" width="45%" style="margin:5px;">
 </div>
 
+---
+
 ## 🗂️ Estrutura do Repositório
 | Cliente               | Objetivo Principal                                                                 |
 |-----------------------|-----------------------------------------------------------------------------------|
-| `Etiquetas Nova União`| Qualificação dos Leads de topo do Funil e detalhes de cada Lead para a equipe comercial trabalhar. |
+| `Etiquetas Nova União`| Qualificação dos Leads de topo do Funil e detalhes de cada Lead para a equipe comercial trabalhar |
 | `Sapato e Estilo`     | Clusterização das Vendas e Estoque<br>Análise de Poisson para ambos               |
-| `Stillos`             | Clusterização Produtos<br>Análise temporal/sazonal das Vendas                     |
-| `ZyntrixStartup`      | Análise de mercado de startups<br>Correlações e análises temporais do mercado global |
+| `Stillos`             | Clusterização de Produtos<br>Análise temporal/sazonal das Vendas                  |
+| `Zyntrix Startup`     | Análise de mercado de startups<br>Correlações e análises temporais do mercado global |
+
+---
 
 ## 📊 Dashboards
 
 ### Etiquetas Nova União
 <div align="center">
-  <img src="https://i.imgur.com/kF5P4xy.png" width="45%" style="margin:5px;">
-  <img src="https://i.imgur.com/XsCNYQW.png" width="45%" style="margin:5px;">
+  <img src="https://i.imgur.com/2KsU5Wk.png" width="45%" style="margin:5px;">
+  <img src="https://i.imgur.com/DOL6Ppl.png" width="45%" style="margin:5px;">
 </div>
 
 ### Stillos - Análise de Estoque
@@ -54,6 +57,11 @@ Repositório com meus projetos em Power BI, Python e SQL para análise de dados.
   <img src="https://i.imgur.com/mD1IjIl.png" width="45%" style="margin:5px;">
 </div>
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 <p align="left">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
