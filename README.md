@@ -3,8 +3,8 @@
 Repositório com meus projetos em **Power BI**, **Python** e **SQL** para análise de dados.
 
 <div align="center">
-  <img src="https://i.imgur.com/d5Gvhp6.png" width="45%" style="margin:5px;"> 
-  <img src="https://i.imgur.com/PpsbFfR.png" width="45%" style="margin:5px;">
+  <img src="https://i.imgur.com/aJRc9lU.png" width="45%" style="margin:5px;"> 
+  <img src="https://i.imgur.com/d5Gvhp6.png" width="45%" style="margin:5px;">
 </div>
 
 ---
@@ -23,8 +23,8 @@ Repositório com meus projetos em **Power BI**, **Python** e **SQL** para análi
 
 ### Etiquetas Nova União
 <div align="center">
-  <img src="https://i.imgur.com/2KsU5Wk.png" width="45%" style="margin:5px;">
-  <img src="https://i.imgur.com/DOL6Ppl.png" width="45%" style="margin:5px;">
+  <img src="https://i.imgur.com/d5Gvhp6.png" width="45%" style="margin:5px;">
+  <img src="https://i.imgur.com/PpsbFfR.png" width="45%" style="margin:5px;">
 </div>
 
 ### Stillos - Análise de Estoque
