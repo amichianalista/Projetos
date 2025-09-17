@@ -27,20 +27,9 @@ Repositório com meus projetos em **Power BI**, **Python** e **SQL** para análi
   <img src="https://i.imgur.com/PpsbFfR.png" width="45%" style="margin:5px;">
 </div>
 
-### Stillos - Análise de Estoque
-<div align="center">
-  <img src="https://i.imgur.com/aJRc9lU.png" width="30%">
-  <img src="https://i.imgur.com/KhroNue.png" width="30%">
-  <img src="https://i.imgur.com/gdsxEGA.png" width="30%">
-</div>
 
-### Stillos - Análise de Vendas
-<div align="center">
-  <img src="https://i.imgur.com/6mNpcpC.png" width="45%">
-  <img src="https://i.imgur.com/Aq5UaRD.png" width="45%">
-  <br>
-  <img src="https://i.imgur.com/FrlsklQ.png" width="90%">
-</div>
+
+
 
 ### Sapato e Estilo
 <div align="center">
