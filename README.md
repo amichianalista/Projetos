@@ -1,6 +1,6 @@
 # 📊 Meus Projetos de Análise de Dados
 
-Repositório com meus projetos em **Power BI**, **Python** e **SQL** para análise de dados.
+Repositório com meus projetos em **Google Analytics**, **Power BI**, **Python** e **SQL** para análise de dados.
 
 <div align="center">
   <img src="https://i.imgur.com/QFGMQZp.png" width="45%" style="margin:5px;"> 
