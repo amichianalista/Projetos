@@ -13,7 +13,7 @@ Repositório com meus projetos em **Google Analytics**, **Power BI**, **Python**
 
 | Cliente | Objetivo Principal |
 | :--- | :--- |
-| **`Precavida Precatórios`** | **Auditoria de Performance de Tráfego Orgânico**<br>Análise descritiva e diagnóstica do website com dados do Google Analytics 4, focando em KPIs de Aquisição e Engajamento para avaliar a saúde do tráfego orgânico. |
+| **`PrecV Precatórios`** | **Auditoria de Performance de Tráfego Orgânico**<br>Análise descritiva e diagnóstica do website com dados do Google Analytics 4, focando em KPIs de Aquisição e Engajamento para avaliar a saúde do tráfego orgânico. |
 | `Etiquetas Nova União` | Qualificação dos Leads de topo do Funil e detalhes de cada Lead para a equipe comercial trabalhar |
 | `Sapato e Estilo` | Clusterização das Vendas e Estoque<br>Análise de Poisson para ambos |
 | `Stillos` | Clusterização de Produtos<br>Análise temporal/sazonal das Vendas |
@@ -23,7 +23,7 @@ Repositório com meus projetos em **Google Analytics**, **Power BI**, **Python**
 
 ## 📊 Dashboards
 
-### Precavida Precatórios - Auditoria de Tráfego Orgânico
+### PrecV Precatórios - Auditoria de Tráfego Orgânico
 *Análise de performance com foco em KPIs de Aquisição e Engajamento do Google Analytics 4*
 <div align="center">
   <img src="https://i.imgur.com/QFGMQZp.png" width="45%" style="margin:5px;">
